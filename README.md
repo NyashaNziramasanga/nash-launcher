@@ -7,6 +7,8 @@
 
 [![time tracker](https://wakatime.com/badge/github/NyashaNziramasanga/nash-launcher.svg)](https://wakatime.com/badge/github/NyashaNziramasanga/nash-launcher)
 
+![nash-launcher.gif](images/nash-launcher.gif)
+
 ## Getting Started
 
 - In chrome click on the three dots > `More tools` > `Extensions`
