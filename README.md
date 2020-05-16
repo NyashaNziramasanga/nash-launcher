@@ -1,7 +1,7 @@
 <div align="center">
-    <h1> 🔗 Nash launcher 🔗 </h1>
+    <h1> Nash launcher </h1>
     <p>
-      <i>Chrome extension with quick links</i>
+      <i>🔗 Chrome extension with quick links to social profiles 🔗</i>
     </p>
 </div>
 
