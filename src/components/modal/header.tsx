@@ -1,13 +1,13 @@
 import React from 'react';
 
-interface IHeader {
+type Header = {
   imgSrc: string;
   imgAlt: string;
   version: string;
   imgText: string;
-}
+};
 
-export default function Header(props: IHeader) {
+export default function Header(props: Header) {
   return (
     <div className='modal-header'>
       <h1 className='logo'>

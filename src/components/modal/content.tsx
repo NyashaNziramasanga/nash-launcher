@@ -1,10 +1,10 @@
 import React from 'react';
 
-interface IContent {
+type Content = {
   content: string;
-}
+};
 
-export default function Content(props: IContent) {
+export default function Content(props: Content) {
   return (
     <div className='modal-content'>
       <p>{props.content}</p>

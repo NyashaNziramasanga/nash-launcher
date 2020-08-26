@@ -1,11 +1,11 @@
 import React from 'react';
 
-interface ILink {
+type Link = {
   url: string;
   icon: string;
-}
+};
 
-export default function Icon(props: ILink) {
+export default function Icon(props: Link) {
   return (
     <div className='flex'>
       <a href={props.url} rel='noopener noreferrer' target='_blank'>
