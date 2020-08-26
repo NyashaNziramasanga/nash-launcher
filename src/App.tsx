@@ -1,19 +1,20 @@
 import React from 'react';
 import './App.scss';
 import NashLogo from './assets/images/logo.png';
+import Content from './components/modal/content';
+import Header from './components/modal/header';
 
 export default function App() {
   return (
     <div>
-      <div className='modal-header'>
-        <h1 className='logo'>
-          <img src={NashLogo} alt='Nash Launcher' className='logo-icon' /> Nash
-          Launcher <span className='version'>(1.0.0)</span>
-        </h1>
-      </div>
-      <div className='modal-content'>
-        <p>Quick link access for Nash's content</p>
-      </div>
+      <Header
+        imgSrc={NashLogo}
+        imgAlt={'Nash Launcher'}
+        imgText={'Nash Launcher'}
+        version={'1.0.0'}
+      />
+
+      <Content content={'Quick link access for Nash content'} />
       <div className='modal-icons'>
         <div className='flex-container'>
           <div className='flex'>
