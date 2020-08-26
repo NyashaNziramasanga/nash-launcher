@@ -2,7 +2,7 @@ import React from 'react';
 import './App.scss';
 import NashLogo from './assets/images/logo.png';
 
-function App() {
+export default function App() {
   return (
     <div>
       <div className='modal-header'>
@@ -54,5 +54,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
