@@ -1,0 +1,26 @@
+{
+  "website": {
+    "url": "https://nyashanziramasanga.com/",
+    "icon": "fa fa-globe"
+  },
+  "linkedin": {
+    "url": "https://www.linkedin.com/in/nyasha-nash-nziramasanga-446380116/",
+    "icon": "fa fa-linkedin"
+  },
+  "github": {
+    "url": "https://github.com/NyashaNziramasanga",
+    "icon": "fa fa-github"
+  },
+  "twitter": {
+    "url": "https://twitter.com/NyashaNziboi",
+    "icon": "fa fa-twitter"
+  },
+  "instagram": {
+    "url": "https://www.instagram.com/nyasha_nziboi/",
+    "icon": "fa fa-instagram"
+  },
+  "facebook": {
+    "url": "https://www.facebook.com/Nyasha.Nziboi",
+    "icon": "fa fa-facebook"
+  }
+}
