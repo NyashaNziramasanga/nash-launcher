@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.scss';
 import NashLogo from './assets/images/logo.png';
-import Content from './components/modal/content';
-import Header from './components/modal/header';
-import Icon from './components/modal/icon';
+import Content from './components/Content';
+import Header from './components/Header';
+import Icon from './components/Icon';
 import Data from './data.json';
 
 export default function App() {
